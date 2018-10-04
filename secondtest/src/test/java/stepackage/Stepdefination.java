@@ -21,7 +21,7 @@ public class Stepdefination {
 		System.setProperty("webdriver.chrome.driver","c:\\Chromedriver\\chromedriver.exe");
 		driver=new ChromeDriver();
 		
-		driver.get("http://operauat.softvision.com/Account/Login?ReturnUrl=%2fTravel");
+		driver.get("http://facebook.com");
 	    // Write code here that turns the phrase above into concrete actions
 	}
 
